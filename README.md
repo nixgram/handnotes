@@ -1,6 +1,6 @@
 # Handnotes known as Hashnotes in heroku !
 
-Simple Post getter and setter live API project using asp.net core with Swagger https://github.com/sefatanam/handnotes/actions/workflows/dotnet.yml/badge.svg
+Simple Post getter and setter live API project using asp.net core with Swagger ![](https://github.com/sefatanam/handnotes/actions/workflows/dotnet.yml/badge.svg)
 
 Have a look: https://hashnotes.herokuapp.com
 
